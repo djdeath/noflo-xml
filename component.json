@@ -1,0 +1,15 @@
+{
+  "name": "noflo-xml",
+  "description": "XML components for the NoFlo flow-based programming environment",
+  "author": "Henri Bergius <henri.bergius@iki.fi>",
+  "repo": "noflo/noflo-xml",
+  "version": "0.0.2",
+  "keywords": [
+  ],
+  "scripts": [
+    "index.js"
+  ],
+  "json": [
+    "component.json"
+  ]
+}
